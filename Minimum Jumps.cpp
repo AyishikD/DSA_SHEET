@@ -21,3 +21,4 @@ int minJumps(int arr[], int n){
         }
         return -1;
     }
+// using greedy approach
